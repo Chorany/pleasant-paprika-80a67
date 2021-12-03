@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
-    
+
       - title: Feature 1
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -55,6 +55,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+            
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus

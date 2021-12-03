@@ -27,6 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
+    
       - title: Feature 1
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -40,7 +41,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-            
+
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut

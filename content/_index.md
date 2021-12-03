@@ -56,8 +56,6 @@ sections:
             url: /features
             style: secondary
 
-
-            
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
